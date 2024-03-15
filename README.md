@@ -1,4 +1,4 @@
-
+http://giantpandacv.com/academic/%E7%AE%97%E6%B3%95%E7%A7%91%E6%99%AE/Transformer/%E6%97%A0%E9%9C%80nms%EF%BC%8Connxruntime20%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%8E%A9%E8%BD%ACRT-DETR/
 # My Python Examples.
 
 Here is some more detailed information about the scripts I have written.  I do not consider myself a programmer; I create these little programs as experiments to have a play with the language, or to solve a problem for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at craig@geekcomputers.co.uk.
